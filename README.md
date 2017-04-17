@@ -1,7 +1,7 @@
 # test coverage for  [memwatch-next (v0.3.0)](https://github.com/marcominetti/node-memwatch#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-memwatch-next.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-memwatch-next) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-memwatch-next.svg)](https://travis-ci.org/npmtest/node-npmtest-memwatch-next)
 #### Keep an eye on your memory usage, and discover and isolate leaks.
 
-[![NPM](https://nodei.co/npm/memwatch-next.png?downloads=true)](https://www.npmjs.com/package/memwatch-next)
+[![NPM](https://nodei.co/npm/memwatch-next.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/memwatch-next)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-memwatch-next/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-memwatch-next/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-memwatch-next/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-memwatch-next/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-memwatch-next/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-memwatch-next/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-memwatch-next/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-memwatch-next/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-memwatch-next/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-memwatch-next/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-memwatch-next%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-memwatch-next/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-memwatch-next/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-memwatch-next/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-memwatch-next/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-memwatch-next%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-memwatch-next/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-memwatch-next/build/test-report.html](https://npmtest.github.io/node-npmtest-memwatch-next/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-memwatch-next/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-memwatch-next/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-memwatch-next/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-memwatch-next/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-memwatch-next/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-memwatch-next/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-memwatch-next/build/screenCapture.npmPackageListing.svg)
 
@@ -75,13 +81,11 @@
     "main": "include.js",
     "maintainers": [
         {
-            "name": "marcominetti",
-            "email": "marco.minetti@novetica.org"
+            "name": "marcominetti"
         }
     ],
     "name": "memwatch-next",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/marcominetti/node-memwatch.git"
