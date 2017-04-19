@@ -1,4 +1,7 @@
-# test coverage for  [memwatch-next (v0.3.0)](https://github.com/marcominetti/node-memwatch#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-memwatch-next.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-memwatch-next) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-memwatch-next.svg)](https://travis-ci.org/npmtest/node-npmtest-memwatch-next)
+# npmtest-memwatch-next
+
+#### basic test coverage for  [memwatch-next (v0.3.0)](https://github.com/marcominetti/node-memwatch#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-memwatch-next.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-memwatch-next) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-memwatch-next.svg)](https://travis-ci.org/npmtest/node-npmtest-memwatch-next)
+
 #### Keep an eye on your memory usage, and discover and isolate leaks.
 
 [![NPM](https://nodei.co/npm/memwatch-next.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/memwatch-next)
